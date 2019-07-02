@@ -5,10 +5,10 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 input[type="checkbox"],input[type="radio"]{
-    /*display: none;*/
+    display: none;
     width: 0;
     height: 0;
-    /*visibility: hidden;*/
+    visibility: hidden;
 }
 input[type="checkbox"]:checked + label:after{
     transition: all 0.3s ease-in;
