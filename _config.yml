@@ -79,4 +79,4 @@ theme: Chic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/liangwenle/liangwenle.github.com.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@github.com:liangwenle/liangwenle.github.com.git

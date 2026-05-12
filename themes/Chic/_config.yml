@@ -94,3 +94,9 @@ stylesheets:
 # scripts loaded in the end of the body
 scripts:
   - /js/script.js
+
+# Google AdSense
+google_adsense:
+  enable: false
+  client: ca-pub-6913061503088032
+  slot:
